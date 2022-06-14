@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BobbyHuang1116
+- 👋 Hi, I’m @BobbyHuang
 - 👀 I’m interested in Financial Mathematics and Business Analysis
 - 🌱 I’m currently learning Python, R, C++
 - 📫 Reach me @ hc.huang0125@gmail.com
